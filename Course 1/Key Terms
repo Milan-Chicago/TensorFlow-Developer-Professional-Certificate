@@ -1,0 +1,30 @@
+# Key Terms:
+
+The diagram for traditional programming had Rules and Data In, but what came out?    Answers
+
+The diagram for Machine Learning had Answers and Data In, but what came out?         Rules
+
+When I tell a computer what the data represents (i.e. this data is for walking, this data is for running), what is that process called?  Labelling Data
+
+What is a Dense?   A layer of connected neurons
+
+What does a Loss function do?                                                        Measures how good the current ‘guess’ is
+
+What does the optimizer do?                                                          Generates a new and improved guess
+
+What is Convergence?                                                                 The process of getting very close to the correct answer
+
+What does model.fit do?                                                              It trains the neural network to fit one set of values to another
+
+
+
+
+
+
+
+
+
+
+
+
+
