@@ -7,6 +7,8 @@
 - Teach machines to understand, analyze, and respond to human speech with natural language processing systems
 - Process text, represent sentences as vectors, and train a model to create original poetry!
 
+![image](https://user-images.githubusercontent.com/7217067/117889920-efdda780-b279-11eb-9778-d25c9871c1e4.png)
+
 # Course 1
  Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
 
