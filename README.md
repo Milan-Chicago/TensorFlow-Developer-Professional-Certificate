@@ -14,7 +14,11 @@
 
 # Course 2
  Convolutional Neural Networks in TensorFlow
-Week 1  Image Classification | Week 2 Image Augmentation & Overfitting | Week 3 Transfer Learning | Week 4 Multiclass Classifications
+ 
+Week 1 Image Classification
+Week 2 Image Augmentation & Overfitting
+Week 3 Transfer Learning
+Week 4 Multiclass Classifications
 
 # Course 3
  Natural Language Processing in TensorFlow
