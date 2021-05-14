@@ -9,7 +9,7 @@
 
 ![image](https://user-images.githubusercontent.com/7217067/117889920-efdda780-b279-11eb-9778-d25c9871c1e4.png)
 
-![image](https://user-images.githubusercontent.com/7217067/118224561-084fec80-b449-11eb-9ca2-0d58789765b6.png)
+![image](https://user-images.githubusercontent.com/7217067/118224662-40efc600-b449-11eb-9ff0-66fd02266bbe.png)
 
 
 # Course 1
